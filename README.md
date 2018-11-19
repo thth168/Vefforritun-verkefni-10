@@ -1,6 +1,6 @@
 # Verkefni Lokið
-*Unnið af: Þresti Almari Þrastarsyni*
-Skilað á sunnudeginum 18. nóv. 2018
+*Unnið af: Þresti Almari Þrastarsyni*  
+Skilað á sunnudeginum 18. nóv. 2018  
 Hægt er að keyra vefsíðuna [hér](https://notendur.hi.is/~thth168/vefforritun/verkefni10/)
 ---
 
